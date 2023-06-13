@@ -7,7 +7,9 @@ half the time i have no idea what i am doing.
 # How to open it? 
 first things first, you need to download the file and open it in your browser of choice, or you copy and paste the code and put it into an html translating website/compiler. 
 # html translating website? what? where do i find that?
-here are some that i have found and i have used to verify that the code does work.
+these are just online ways to show the html that has been coded, and displays what has been put. its good to use to make sure that all the code and such can work. 
+
+here are some websites that i have found and i have used to verify that the code does work.
 
 https://www.tutorialspoint.com/online_html_editor.php
 
