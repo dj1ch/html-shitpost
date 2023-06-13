@@ -10,4 +10,7 @@ first things first, you need to download the file and open it in your browser of
 here are some that i have found and i have used to verify that the code does work.
 -https://www.tutorialspoint.com/online_html_editor.php
 -https://www.programiz.com/html/online-compiler/
-however, the second one does not show the images for some reason. 
+
+note: however, the second one does not show the images for some reason. 
+
+I will eventually add more, but for now, just stick to the first one. 
