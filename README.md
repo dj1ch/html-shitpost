@@ -8,5 +8,6 @@ half the time i have no idea what i am doing.
 first things first, you need to download the file and open it in your browser of choice, or you copy and paste the code and put it into an html translating website/compiler. 
 # html translating website? what? where do i find that?
 here are some that i have found and i have used to verify that the code does work.
-https://www.tutorialspoint.com/online_html_editor.php
-https://www.programiz.com/html/online-compiler/
+-https://www.tutorialspoint.com/online_html_editor.php
+-https://www.programiz.com/html/online-compiler/
+however, the second one does not show the images for some reason. 
