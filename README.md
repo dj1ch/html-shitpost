@@ -9,8 +9,11 @@ first things first, you need to download the file and open it in your browser of
 # How do I download? 
 select the file named page.html on this page. make sure to not select the commit message, but the actual file name. it should pull up a page with a bunch of code on it. there is a download logo by the title, and the button that says "raw". anyway, after downloading it, you can open the files app and drag the file into your web browser. 
 # html translating website? what? where do i find that?
+
+## the what
 these are just online ways to show the html that has been coded, and displays what has been put. its good to use to make sure that all the code and such can work. 
 
+## the where
 here are some websites that i have found and i have used to verify that the code does work.
 
 https://www.tutorialspoint.com/online_html_editor.php
