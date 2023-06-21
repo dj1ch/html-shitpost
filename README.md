@@ -7,7 +7,10 @@ half the time i have no idea what i am doing.
 # How to open it? 
 first things first, you need to download the file and open it in your browser of choice, or you copy and paste the code and put it into an html translating website/compiler.
 # How do I download? 
+## first method
 select the file named page.html on this page. make sure to not select the commit message, but the actual file name. it should pull up a page with a bunch of code on it. there is a download logo by the title, and the button that says "raw". anyway, after downloading it, you can open the files app and drag the file into your web browser. 
+## another method(easy)
+you can go to the releases page and download the latest .html file, then open it in your browser. 
 # html translating website? what? where do i find that?
 
 ## the what
